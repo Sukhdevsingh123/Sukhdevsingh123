@@ -1,5 +1,5 @@
 
-[<img src="https://img.pikbest.com/wp/202405/blockchain-technology-creating-a-visual-representation-of-and-cryptocurrency_9833617.jpg!w700wp" alt="MasterHead" height="200" width="1000">](https://github.com/Sukhdevsingh123)
+
 
 <h1 align="center">Hi 👋, I'm Sukhdev Singh</h1>
 <h3 align="center">A Passionate FullStack Blockchain Developer From India</h3>

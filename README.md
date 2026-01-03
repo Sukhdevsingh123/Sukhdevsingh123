@@ -26,7 +26,7 @@ A Passionate Full Stack Developer specializing in Generative AI & Blockchain
 - 🧠 Full Stack Developer focused on **Generative AI, LLMs & scalable systems**
 - 🤖 Built **RAG pipelines, AI agents, and production-ready AI backends**
 - ⛓️ Experience with **Blockchain & Smart Contracts**
-- 🌱 Currently learning **Rust & Solana**
+- 🌱 Currently learning **AWS**
 - 💬 Ask me about **Generative AI, MERN Stack, Blockchain**
 - 📫 Reach me at **sukhdev72361234@gmail.com**
 - ⚡ Fun fact: *Debugging is my cardio 😄*

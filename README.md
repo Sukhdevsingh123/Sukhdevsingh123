@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Sukhdev Singh</h1>
 <h3 align="center">
-Full Stack Developer specializing in Generative AI, Blockchain & Scalable Web Systems
+A Passionate Full Stack Developer specializing in Generative AI & Blockchain
 </h3>
 
 <img
@@ -21,11 +21,11 @@ Full Stack Developer specializing in Generative AI, Blockchain & Scalable Web Sy
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 
-- 🧠 Full Stack Developer with strong focus on **Generative AI & LLM-based systems**
-- 🤖 Experience building **RAG pipelines, AI agents, and production-ready AI backends**
-- ⛓️ Hands-on knowledge of **Blockchain & Smart Contract development**
+- 🧠 Full Stack Developer focused on **Generative AI, LLMs & scalable systems**
+- 🤖 Built **RAG pipelines, AI agents, and production-ready AI backends**
+- ⛓️ Experience with **Blockchain & Smart Contracts**
 - 🌱 Currently learning **Rust & Solana**
 - 💬 Ask me about **Generative AI, MERN Stack, Blockchain**
 - 📫 Reach me at **sukhdev72361234@gmail.com**
@@ -33,49 +33,76 @@ Full Stack Developer specializing in Generative AI, Blockchain & Scalable Web Sy
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🧰 Tech Stack & Skills (What I Actually Use)
 
-### 🌐 Frontend
-- React.js
-- HTML5, CSS3
-- Tailwind CSS
-- JavaScript (ES6+)
-- Redux
+### 🌐 Frontend Development
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="45"/>
+</p>
 
-### ⚙️ Backend
-- Node.js
-- Express.js
-- MongoDB
-- PostgreSQL / MySQL
-- REST APIs & GraphQL
+---
 
-### ☁️ DevOps & Cloud
-- Docker
-- AWS
-- Linux
-- Git & GitHub
+### ⚙️ Backend & Databases
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45"/>
+</p>
 
-### 🧠 Generative AI & Machine Learning
-- Python
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- LangChain
-- Vector Databases (FAISS / Pinecone concepts)
-- Hugging Face
-- OpenAI APIs
-- CrewAI
-- LLM Fine-tuning (basic)
-- Hallucination detection & mitigation
-- PyTorch
-- Transformers
-- MCP Servers
+---
 
-### ⛓️ Blockchain (Working Knowledge)
-- Solidity Smart Contract Development
-- Smart Contract Deployment & Testing
-- Wallet Connectivity (MetaMask, Web3.js / Ethers.js)
+### 🧠 Generative AI & LLM Engineering
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
+  <img src="https://huggingface.co/front/assets/huggingface_logo.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="45"/>
+</p>
+
+**Concepts & Tools**
+- LLMs & Prompt Engineering  
+- Retrieval-Augmented Generation (RAG)  
+- LangChain  
+- Vector Databases (FAISS / Pinecone concepts)  
+- OpenAI APIs  
+- CrewAI  
+- LLM Fine-tuning (basic)  
+- Hallucination Detection & Mitigation  
+- Transformers  
+- MCP Servers  
+
+---
+
+### ⛓️ Blockchain & Web3
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ethereum/ethereum-original.svg" width="45"/>
+</p>
+
+**Blockchain Skills**
+- Smart Contract Development (Solidity)
+- Contract Deployment & Testing
+- Wallet Connectivity (MetaMask, Web3.js, Ethers.js)
 - Gas Optimization
-- On-chain & Off-chain Architecture Basics
+- On-chain & Off-chain Architecture
+- Learning: **Rust & Solana**
+
+---
+
+### ☁️ DevOps & Tooling
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45"/>
+</p>
 
 ---
 
@@ -83,25 +110,13 @@ Full Stack Developer specializing in Generative AI, Blockchain & Scalable Web Sy
 
 <p align="left">
   <a href="https://www.linkedin.com/in/sukhdev-singh-70b01427b/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      height="30"
-      width="40"
-    />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30"/>
   </a>
   <a href="https://www.facebook.com/profile.php?id=100083021554613" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      height="30"
-      width="40"
-    />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30"/>
   </a>
   <a href="https://instagram.com/sukhdev_singh_9664" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      height="30"
-      width="40"
-    />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30"/>
   </a>
 </p>
 
@@ -110,25 +125,13 @@ Full Stack Developer specializing in Generative AI, Blockchain & Scalable Web Sy
 ## 📊 GitHub Stats
 
 <p>
-  <img
-    align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=sukhdevsingh123&show_icons=true&locale=en&layout=compact"
-    alt="sukhdevsingh123"
-  />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sukhdevsingh123&layout=compact" />
 </p>
 
 <p>
-  <img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=sukhdevsingh123&show_icons=true&locale=en"
-    alt="sukhdevsingh123"
-  />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sukhdevsingh123&show_icons=true" />
 </p>
 
 <p>
-  <img
-    align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=sukhdevsingh123"
-    alt="sukhdevsingh123"
-  />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sukhdevsingh123" />
 </p>
